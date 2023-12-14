@@ -64,6 +64,9 @@ taxonomies:
   author: authors
 
 markup:
+  goldmark:
+    renderer:
+      unsafe: false
   _merge: deep
 
 related:
