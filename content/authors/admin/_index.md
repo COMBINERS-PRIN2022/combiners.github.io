@@ -7,7 +7,7 @@ social:
     header: true
   icon: envelope
   icon_pack: fas
-  link: 'mailto:cgm_prin2022@gmail.com'
+  link: 'mailto:combiners.prin2022@gmail.com'
 - display:
     header: true
   icon: twitter
@@ -18,12 +18,12 @@ social:
     header: true
   icon: github
   icon_pack: fab
-  link: https://github.com/cgm_prin2022
-- display:
-    header: true
-  icon: linkedin
-  icon_pack: fab
-  link: https://www.linkedin.com/cgm_prin2022
+  link: https://github.com/COMBINERS-PRIN2022
+#- display:
+#    header: true
+#  icon: linkedin
+#  icon_pack: fab
+#  link: https://www.linkedin.com/cgm_prin2022
 ---
 
 This project concerns the development of novel principled statistical tools for the analysis of complex networks under non-standard experimental setups. 
