@@ -7,7 +7,7 @@ hero_media: hero-academic.png
 design:
   columns: "1"
   background:
-    image: 'algorithm3.png'
+    image: 'algorithm.png'
     gradient_end: '#1976d2'
     gradient_start: '#004ba0'
     text_color_light: true
