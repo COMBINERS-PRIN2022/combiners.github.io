@@ -59,11 +59,8 @@ social:
 #- icon: youtube
 #  icon_pack: fab
 #  link: https://www.youtube.com/user/RoyalStatSoc
-- icon: linkedin
-  icon_pack: fab
-  link: https://www.linkedin.com/in/gianlucasottile/
 ---
 
-Statistician, currently Research Fellow in Tenure-Track (RTD-B) at the Department of Economics, Business and Statistics of Università degli Studi di Palermo. Previously, postdoctoral researcher at University of Palermo, working on variable selection models and robust statistics. My research interests are related to the area of applied statistical learning, with particular focus on robust models. I am a passionate R user.
+Gianluca Sottile is currently Research Fellow in Tenure-Track (RTD-B) at the Department of Economics, Business and Statistics of Università degli Studi di Palermo. Previously, postdoctoral researcher at University of Palermo, working on variable selection models and robust statistics. My research interests are related to the area of applied statistical learning, with particular focus on robust models. I am a passionate R user.
 
 
