@@ -34,8 +34,6 @@ social:
   icon_pack: ai
   link: https://scholar.google.it/citations?hl=it&user=O74VFR0AAAAJ&view_op=list_works&sortby=pubdate
 
-https://scholar.google.it/citations?hl=it&user=O74VFR0AAAAJ&view_op=list_works&sortby=pubdate
-
 #- display:
 #    header: true
 #  icon: twitter
