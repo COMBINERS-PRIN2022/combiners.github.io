@@ -40,16 +40,22 @@ social:
   link: 'mailto:gianluca.sottile@unipa.it'
 - display:
     header: true
-  icon: twitter
+- icon: twitter
   icon_pack: fab
   label: Follow me on Twitter
   link: https://twitter.com/gia898
-- icon: graduation-cap
-  icon_pack: fas
+- icon: google-scholar
+  icon_pack: ai
   link: https://scholar.google.com/citations?user=Kr8_P5EAAAAJ&hl=it
 - icon: github
   icon_pack: fab
   link: https://github.com/gianluca-sottile
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/gianlucasottile/
+- icon: researchgate
+  icon_pack: fab
+  link: https://www.researchgate.net/profile/Gianluca-Sottile
 #- icon: youtube
 #  icon_pack: fab
 #  link: https://www.youtube.com/user/RoyalStatSoc
