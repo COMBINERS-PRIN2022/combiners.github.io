@@ -1,9 +1,11 @@
 ---
-title: "An example conference paper"
+title: "Bayesian inference of multiple Ising models for heterogeneous data"
 authors:
-- admin
-- Robert Ford
-date: "2013-07-01T00:00:00Z"
+- Lazzerini
+- Pacheco
+- Lupparelli
+- Stingo
+date: "2023-08-03T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
