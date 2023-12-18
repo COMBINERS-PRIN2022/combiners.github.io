@@ -1,12 +1,12 @@
 ---
 superuser: false
 weight: 50
-title: Antonino Abbruzzo
+title: Stefano Peluso
 role: Associate Professor
-user_groups: ["University of Palermo"]
+user_groups: ["Università Cattolica del Sacro Cuore"]
 organizations:
-- name: University of Palermo
-  url: https://www.unipa.it/persone/docenti/a/antonino.abbruzzo
+- name: Università degli Studi di Milano Bicocca
+  url: https://www.unimib.it/stefano-peluso
 #bio: My research interests include distributed robotics, mobile computing and programmable matter.
 #education:
 #  courses:
@@ -22,16 +22,11 @@ organizations:
 #email: francescoclaudio.stingo@unifi.it
 #highlight_name: true
 interests:
-  - Graphical models
   - Bayesian statistics
-  - Biostatistics
-  - Statistical genomics
-  - Computational statistics
-  - Statistical models
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:luigi.augugliaro@unipa.it'
+  link: 'mailto:stefano.peluso@unimib.it'
 #- display:
 #    header: true
 #  icon: twitter
