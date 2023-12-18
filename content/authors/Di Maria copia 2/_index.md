@@ -1,12 +1,12 @@
 ---
 superuser: false
 weight: 50
-title: Rita Fici
-role: PhD Student
+title: Chiara Di Maria
+role: Assistant Professor
 user_groups: ["University of Palermo"]
 organizations:
 - name: University of Palermo
-  url: https://www.unipa.it/dipartimenti/seas/dottorati/scienzeeconomicheestatistiche/allievi.html
+  url: https://www.unipa.it/persone/docenti/d/chiara.dimaria
 #bio: My research interests include distributed robotics, mobile computing and programmable matter.
 #education:
 #  courses:
@@ -22,20 +22,24 @@ organizations:
 #email: francescoclaudio.stingo@unifi.it
 #highlight_name: true
 interests:
-  - Graphical models
+  - Mediation analysis
+  - Causal inference
+  - Longitudinal data
+  - Multilevel
+  - Structural equation models
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:rita.fici@unipa.it'
-#- icon: google-scholar
- # icon_pack: ai
-  #link: https://scholar.google.com/citations?user=PpwVbA0AAAAJ&hl=it&oi=ao
-#- icon: linkedin
-  #icon_pack: fab
-  #link: https://www.linkedin.com/in/chiara-di-maria-857b01137/
-#- icon: researchgate
-  #icon_pack: fab
-  #link: https://www.researchgate.net/profile/Chiara-Di-Maria
+  link: 'mailto:chiara.dimaria@unipa.it'
+- icon: google-scholar
+  icon_pack: ai
+  link: https://scholar.google.com/citations?user=PpwVbA0AAAAJ&hl=it&oi=ao
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/chiara-di-maria-857b01137/
+- icon: researchgate
+  icon_pack: fab
+  link: https://www.researchgate.net/profile/Chiara-Di-Maria
 #- display:
 #    header: true
 #  icon: twitter

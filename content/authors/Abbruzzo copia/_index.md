@@ -1,12 +1,12 @@
 ---
 superuser: false
 weight: 50
-title: Rita Fici
-role: PhD Student
+title: Antonino Abbruzzo
+role: Associate Professor
 user_groups: ["University of Palermo"]
 organizations:
 - name: University of Palermo
-  url: https://www.unipa.it/dipartimenti/seas/dottorati/scienzeeconomicheestatistiche/allievi.html
+  url: https://www.unipa.it/persone/docenti/a/antonino.abbruzzo
 #bio: My research interests include distributed robotics, mobile computing and programmable matter.
 #education:
 #  courses:
@@ -23,19 +23,15 @@ organizations:
 #highlight_name: true
 interests:
   - Graphical models
+  - Bayesian statistics
+  - Biostatistics
+  - Statistical genomics
+  - Computational statistics
+  - Statistical models
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:rita.fici@unipa.it'
-#- icon: google-scholar
- # icon_pack: ai
-  #link: https://scholar.google.com/citations?user=PpwVbA0AAAAJ&hl=it&oi=ao
-#- icon: linkedin
-  #icon_pack: fab
-  #link: https://www.linkedin.com/in/chiara-di-maria-857b01137/
-#- icon: researchgate
-  #icon_pack: fab
-  #link: https://www.researchgate.net/profile/Chiara-Di-Maria
+  link: 'mailto:luigi.augugliaro@unipa.it'
 #- display:
 #    header: true
 #  icon: twitter
@@ -56,6 +52,6 @@ social:
 #  link: https://www.linkedin.com/company/royal-statistical-society/
 ---
 
-Chiara Di Maria is Assistant Professor at the Department of Economics, Business and Statistics at the University of Palermo. She obtained her PhD in Statistics from the University of Palermo in 2022. She was visiting scholar at the Leibniz Institute for Prevention Research and Epidemiology in Bremen in 2020 and at the Department of Psychology of the Humboldt University in Berlin in 2022.  Her research interests concern mediation analysis, causal inference, longitudinal data and multilevel and structural equation models. 
+Bio: 
 
 
