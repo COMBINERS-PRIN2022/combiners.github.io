@@ -3,7 +3,7 @@ superuser: false
 weight: 30
 title: Guido Consonni
 role: Full Professor
-user_groups: ["Local Coordinators"]
+user_groups: ["Local Coordinators", "Università Cattolica del Sacro Cuore"]
 organizations:
 - name: Università Cattolica del Sacro Cuore
   url: https://docenti.unicatt.it/ppd2/en/docenti/35448/guido-consonni/profilo

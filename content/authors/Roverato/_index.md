@@ -3,7 +3,7 @@ superuser: false
 weight: 20
 title: Alberto Roverato
 role: Full Professor
-user_groups: ["Local Coordinators"]
+user_groups: ["Local Coordinators", "University of Padua"]
 organizations:
 - name: University of Padua
   url: https://homes.stat.unipd.it/albertoroverato/en

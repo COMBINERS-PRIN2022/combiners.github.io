@@ -3,7 +3,7 @@ superuser: false
 weight: 40
 title: Luigi Augugliaro
 role: Associate Professor
-user_groups: ["Local Coordinators"]
+user_groups: ["Local Coordinators", "University of Palermo"]
 organizations:
 - name: University of Palermo
   url: https://www.unipa.it/persone/docenti/s/gianluca.sottile
