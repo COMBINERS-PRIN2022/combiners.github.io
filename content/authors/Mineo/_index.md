@@ -31,7 +31,7 @@ interests:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:luigi.augugliaro@unipa.it'
+  link: 'mailto:angelo.mineo@unipa.it'
 #- display:
 #    header: true
 #  icon: twitter
