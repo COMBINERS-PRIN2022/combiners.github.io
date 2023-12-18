@@ -26,9 +26,9 @@ featured: false
 #  url: https://twitter.com/georgecushen
 #projects:
 #- internal-project
-#publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2023-12-18T00:00:00Z"
 #slides: example
-tags: [Talk]
+tags: [Workshop]
 url_code: ""
 url_pdf: ""
 url_slides: ""
