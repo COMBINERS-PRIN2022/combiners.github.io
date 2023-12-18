@@ -1,0 +1,68 @@
+---
+title: "Sparse inference of the human hematopoietic system from heterogeneous and partially observed genomic data"
+authors:
+- Sottile
+- Augugliaro
+- Vinciotti
+- Arancio
+- Coronnello
+date: "2022-06-20T00:00:00Z"
+doi: "10.48550/arXiv.2206.09863"
+
+# Schedule page publish date (NOT publication's date).
+publishDate: "2022-06-20T00:00:00Z"
+
+# Publication type.
+# Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
+# 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
+# 7 = Thesis; 8 = Patent
+publication_types: ["3"]
+
+# Publication name and optional abbreviated publication name.
+publication: "arXiv"
+publication_short: ""
+
+abstract: Hematopoiesis is the process of blood cell formation, through which progenitor stem cells differentiate into mature forms, such as white and red blood cells or mature platelets. While the precursors of the mature forms share many regulatory pathways involving common cellular nuclear factors, specific networks of regulation shape their fate towards one lineage or another. In this study, we aim to analyse the complex regulatory network that drives the formation of mature red blood cells and platelets from their common precursor. To this aim, we develop a dedicated graphical model which we infer from the latest RT-qPCR genomic data. The model also accounts for the effect of external genomic data. A computationally efficient Expectation-Maximization algorithm allows regularised network inference from the high-dimensional and often only partially observed RT-qPCR data. A careful combination of alternating direction method of multipliers algorithms allows achieving sparsity in the individual lineage networks and a high sharing between these networks, together with the detection of the associations between the membrane-bound receptors and the nuclear factors. The approach will be implemented in the R package cglasso and can be used in similar applications where network inference is conducted from high-dimensional, heterogeneous and partially observed data.
+
+# Summary. An optional shortened abstract.
+#summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+
+tags:
+- Source Themes
+featured: false
+
+links:
+#- name: Custom Link
+ # url: http://example.org
+url_pdf: https://arxiv.org/pdf/2206.09863.pdf
+url_code: https://github.com/gianluca-sottile/Hematopoiesis-network-inference-from-RT-qPCR-data
+url_dataset: ''
+url_poster: ''
+url_project: ''
+url_slides: ''
+url_source: https://arxiv.org/abs/2206.09863
+url_video: ''
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder. 
+image:
+  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/s9CC2SKySJM)'
+  focal_point: ""
+  preview_only: false
+
+# Associated Projects (optional).
+#   Associate this publication with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `internal-project` references `content/project/internal-project/index.md`.
+#   Otherwise, set `projects: []`.
+projects:
+- internal-project
+
+# Slides (optional).
+#   Associate this publication with Markdown slides.
+#   Simply enter your slide deck's filename without extension.
+#   E.g. `slides: "example"` references `content/slides/example/index.md`.
+#   Otherwise, set `slides: ""`.
+slides:
+---
+
