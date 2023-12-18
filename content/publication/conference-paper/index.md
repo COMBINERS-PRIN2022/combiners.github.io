@@ -21,7 +21,7 @@ publication_types: ["1"]
 publication: In *6th International Conference on Econometrics and Statistics*
 publication_short: In *EcoSta2023*
 
-abstract: Multiple Ising models can be used to model the heterogeneity induced in a set of binary variables by external factors. These factors may influence the joint dependence relationships represented by a set of graphs across different groups.
+abstract: Multiple Ising models can be used to model the heterogeneity induced in a set of binary variables by external factors. These factors may influence the joint dependence relationships represented by a set of graphs across different groups. The inference for this class of models is presented, and a Bayesian methodology is proposed based on a Markov Random Field prior to the multiple graph setting. Such prior enables the borrowing of strength across the different groups to encourage common edges when supported by the data. Sparse-inducing priors are employed on the parameters that measure graph similarities to learn which subgroups have a shared graph structure.
 
 # Summary. An optional shortened abstract.
 #summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
