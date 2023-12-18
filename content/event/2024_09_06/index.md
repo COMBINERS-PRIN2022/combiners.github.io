@@ -1,19 +1,19 @@
 ---
-title: Example Talk
+title: COMBINERS Workshop 
 authors: [Stingo, Roverato, Consonni, Augugliaro]
-summary: An example talk using Wowchemy's Markdown slides feature.
-abstract: An example talk using Wowchemy's Markdown slides feature.
+summary: TBA
+abstract: TBA
 address:
-  city: Stanford
-  country: United States
-  postcode: "94305"
-  region: CA
-  street: 450 Serra Mall
+  city: PADUA
+  country: Italy
+  postcode: "35122"
+  region: IT
+  street: 2 Via 8 Febbraio
 all_day: false
-date: "2022-06-01T13:00:00Z"
-date_end: "2022-06-01T15:00:00Z"
-location: Wowchemy HQ
-event: Wowchemy Conference
+date: "2024-09-06T09:00:00Z"
+date_end: "2024-09-06T18:00:00Z"
+location: Padua
+event: COMBINERS Conference
 #event_url: https://example.org
 featured: false
 #image:
@@ -26,7 +26,7 @@ featured: false
 #  url: https://twitter.com/georgecushen
 #projects:
 #- internal-project
-publishDate: "2017-01-01T00:00:00Z"
+#publishDate: "2017-01-01T00:00:00Z"
 #slides: example
 tags: [Talk]
 url_code: ""
