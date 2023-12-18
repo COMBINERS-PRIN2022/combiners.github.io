@@ -1,6 +1,6 @@
 ---
 superuser: false
-weight: 50
+weight: 45
 title: Dung Ngoc Nguyen
 role: Postdoctoral Researcher
 user_groups: ["University of Padua"]

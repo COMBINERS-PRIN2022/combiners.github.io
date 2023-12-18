@@ -1,6 +1,6 @@
 ---
 superuser: false
-weight: 50
+weight: 30
 title: Veronica Vinciotti
 role: Associate Professor
 user_groups: ["University of Padua"]

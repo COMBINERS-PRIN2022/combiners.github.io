@@ -1,6 +1,6 @@
 ---
 superuser: false
-weight: 50
+weight: 25
 title: Manuela Cattelan
 role: Associate Professor
 user_groups: ["University of Padua"]

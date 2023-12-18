@@ -1,6 +1,6 @@
 ---
 superuser: false
-weight: 50
+weight: 35
 title: Nicolas Bianco
 role: Postdoctoral Researcher
 user_groups: ["University of Padua"]

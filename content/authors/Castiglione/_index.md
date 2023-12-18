@@ -1,6 +1,6 @@
 ---
 superuser: false
-weight: 50
+weight: 40
 title: Cristian Castiglione
 role: Postdoctoral Researcher
 user_groups: ["University of Padua"]

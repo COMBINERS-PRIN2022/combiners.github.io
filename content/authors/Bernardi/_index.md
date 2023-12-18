@@ -1,6 +1,6 @@
 ---
 superuser: false
-weight: 50
+weight: 20
 title: Mauro Bernardi
 role: Associate Professor
 user_groups: ["University of Padua"]
