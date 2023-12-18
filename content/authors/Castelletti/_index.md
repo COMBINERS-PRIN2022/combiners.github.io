@@ -1,6 +1,6 @@
 ---
 superuser: false
-weight: 50
+weight: 40
 title: Federico Castelletti
 role: Assistant Professor
 user_groups: ["Università Cattolica del Sacro Cuore"]

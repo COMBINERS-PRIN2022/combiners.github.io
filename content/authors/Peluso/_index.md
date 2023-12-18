@@ -1,6 +1,6 @@
 ---
 superuser: false
-weight: 50
+weight: 35
 title: Stefano Peluso
 role: Associate Professor
 user_groups: ["Università Cattolica del Sacro Cuore"]

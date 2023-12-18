@@ -1,6 +1,6 @@
 ---
 superuser: false
-weight: 50
+weight: 45
 title: Francesco Denti
 role: Assistant Professor
 user_groups: ["Università Cattolica del Sacro Cuore"]

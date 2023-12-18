@@ -1,6 +1,6 @@
 ---
 superuser: false
-weight: 50
+weight: 30
 title: Lucia Paci
 role: Associate Professor
 user_groups: ["Università Cattolica del Sacro Cuore"]
