@@ -10,7 +10,7 @@ authors:
 #- "Equal contribution"
 #- "Equal contribution"
 #date: "2021-05-27T00:00:00Z"
-doi: "10.1007/s10260-021-00572-8(0123456789().,-volV)(0123456789().,-volV)"
+doi: "10.1007/s10260-021-00572-8"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2021-05-27T00:00:00Z"
