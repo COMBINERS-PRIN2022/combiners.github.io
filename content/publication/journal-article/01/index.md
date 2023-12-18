@@ -1,7 +1,3 @@
-1. Ni Y, Baladandayuthapani V., Vannucci M and Stingo FC. (2022) Bayesian graphical models for modern biological applications (with discussion). Statistical Methods and Applications. 31: 197–225. 
-2. Peterson, C. and Stingo, F.C. (2022) Bayesian estimation of single and multiple graphs. Handbook of Bayesian Variable Selection, Mahlet Tadesse and Marina Vannucci (Eds). Chapman & Hall/CRC. ISBN: 9780367543761. 
-3. Ni, Y., Stingo, F.C. and Baladandayuthapani, V. (2021) Bayesian Covariate-Dependent Gaussian Graphical Models with Varying Structure. Journal of Machine Learning Research, 23(242) 1-29.
-
 ---
 title: "Bayesian graphical models for modern biological applications"
 authors:
