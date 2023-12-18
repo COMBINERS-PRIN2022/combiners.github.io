@@ -1,12 +1,12 @@
 ---
 superuser: false
 weight: 50
-title: Rita Fici
-role: PhD Student
+title: Nicolas Bianco
+role: Postdoctoral Researcher
 user_groups: ["University of Palermo"]
 organizations:
-- name: University of Palermo
-  url: https://www.unipa.it/dipartimenti/seas/dottorati/scienzeeconomicheestatistiche/allievi.html
+- name: Universitat Pompeu Fabra
+  url: https://www.stat.unipd.it/ricerca/nicolas-bianco
 #bio: My research interests include distributed robotics, mobile computing and programmable matter.
 #education:
 #  courses:
@@ -26,7 +26,7 @@ interests:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:rita.fici@unipa.it'
+  link: 'mailto:nicolas.bianco@upf.edu'
 #- icon: google-scholar
  # icon_pack: ai
   #link: https://scholar.google.com/citations?user=PpwVbA0AAAAJ&hl=it&oi=ao
