@@ -1,7 +1,7 @@
 ---
 superuser: false
 weight: 10
-title: Monia Lupparelli
+title: Anna Gottard
 role: Associate Professor
 user_groups: ["University of Florence"]
 organizations:
