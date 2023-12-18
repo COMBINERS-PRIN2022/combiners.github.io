@@ -1,6 +1,6 @@
 ---
 superuser: false
-weight: 50
+weight: 40
 title: Gianluca Sottile
 role: Assistant Professor
 user_groups: ["University of Palermo"]

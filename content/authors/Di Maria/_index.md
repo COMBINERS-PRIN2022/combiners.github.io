@@ -1,6 +1,6 @@
 ---
 superuser: false
-weight: 50
+weight: 45
 title: Chiara Di Maria
 role: Assistant Professor
 user_groups: ["University of Palermo"]

@@ -1,6 +1,6 @@
 ---
 superuser: false
-weight: 50
+weight: 30
 title: Angelo M. Mineo
 role: Full Professor
 user_groups: ["University of Palermo"]

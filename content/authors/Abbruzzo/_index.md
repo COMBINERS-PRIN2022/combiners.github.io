@@ -1,6 +1,6 @@
 ---
 superuser: false
-weight: 50
+weight: 35
 title: Antonino Abbruzzo
 role: Associate Professor
 user_groups: ["University of Palermo"]
