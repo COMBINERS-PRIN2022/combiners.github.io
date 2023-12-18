@@ -3,7 +3,7 @@ superuser: false
 weight: 50
 title: Nicolas Bianco
 role: Postdoctoral Researcher
-user_groups: ["University of Palermo"]
+user_groups: ["University of Padua"]
 organizations:
 - name: Universitat Pompeu Fabra
   url: https://www.stat.unipd.it/ricerca/nicolas-bianco
