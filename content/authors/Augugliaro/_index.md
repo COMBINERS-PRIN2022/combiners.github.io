@@ -1,8 +1,8 @@
 ---
 superuser: false
-weight: 40
+weight: 25
 title: Luigi Augugliaro
-role: Associate Professor
+role: Full Professor
 user_groups: ["Local Coordinators", "University of Palermo"]
 organizations:
 - name: University of Palermo
@@ -22,16 +22,23 @@ organizations:
 #email: francescoclaudio.stingo@unifi.it
 #highlight_name: true
 interests:
+  - Information geometry
+  - Exponential family
+  - Penalized inference
+  - High-dimensional inference
   - Graphical models
-  - Bayesian statistics
-  - Biostatistics
-  - Statistical genomics
   - Computational statistics
-  - Statistical models
+  - R statistical language
 social:
 - icon: envelope
   icon_pack: fas
   link: 'mailto:luigi.augugliaro@unipa.it'
+- icon: google-scholar
+  icon_pack: ai
+  link: https://scholar.google.it/citations?user=Z30yI1kAAAAJ&hl=it
+- icon: researchgate
+  icon_pack: fab
+  link: https://www.researchgate.net/profile/Luigi-Augugliaro
 #- display:
 #    header: true
 #  icon: twitter
@@ -52,6 +59,5 @@ social:
 #  link: https://www.linkedin.com/company/royal-statistical-society/
 ---
 
-Bio: 
-
+Luigi Augugliaro is Full Professor of Statistics at University of Palermo, Italy. He is an expert of high-dimensional and computational statistics. His current research topics are: information geometry, generalized linear models, penalized inference, graphical models, computational statistics and R statistical software. He is the author of about 50 publications in established peer-reviewed journals in Statistics and has published among others in: J Royal. Statistical. Soc. B, Biometrika, Biostatistics, Journal of Statistical Software and Statistics and Computing. He is an Associate Editor of Statistica Neerlandica. He regularly acts as a referee for major international statistics journals.  He is member of the Bernoulli Society for Mathematical Statistics and Probability, Italian Statistical Society and CMStatistics. He is also maintainer of several R packages.
 

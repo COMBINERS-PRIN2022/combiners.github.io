@@ -52,6 +52,6 @@ social:
 #  link: https://www.linkedin.com/company/royal-statistical-society/
 ---
 
-Bio: 
+Antonino Abbruzzo is associate professor of Statistics at the University of Palermo and belongs to DSEAS (Department of Economic, Business and Statistics). He obtained a PhD in Statistics & Probability, Faculty of Mathematics and Natural Sciences, Bernoulli Institute for Mathematics, Computer Science and Artificial Intelligence, University of Groningen (April 2012). During his PhD he mainly worked on graphical models for high-dimensional data, with particular emphasis to applications in genetics. His research interests concern penalized likelihood and Bayesian Graphical Models.
 
 
