@@ -1,5 +1,5 @@
 ---
-title: COMBINERS Workshop 
+title: Workshop 
 authors: [Stingo, Roverato, Consonni, Augugliaro]
 summary: TBA
 abstract: TBA
