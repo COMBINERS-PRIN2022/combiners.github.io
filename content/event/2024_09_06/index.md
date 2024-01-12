@@ -13,7 +13,7 @@ all_day: false
 date: "2024-09-06T09:00:00Z"
 date_end: "2024-09-06T18:00:00Z"
 location: Padua
-event: COMBINERS Conference
+event: Workshop
 #event_url: https://example.org
 featured: false
 #image:
