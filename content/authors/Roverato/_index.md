@@ -23,15 +23,17 @@ organizations:
 #highlight_name: true
 interests:
   - Graphical models
-  - Bayesian statistics
-  - Biostatistics
-  - Statistical genomics
-  - Computational statistics
-  - Statistical models
+  - Categorical data analysis
+  - Network Science
+  - Biological networks
+  
 social:
 - icon: envelope
   icon_pack: fas
   link: 'mailto:alberto.roverato@unipd.it'
+- icon: google-scholar
+  icon_pack: ai
+  link: https://scholar.google.it/citations?user%253D7rBViWsAAAAJ%2526hl%253Dit
 #- display:
 #    header: true
 #  icon: twitter
@@ -52,6 +54,6 @@ social:
 #  link: https://www.linkedin.com/company/royal-statistical-society/
 ---
 
-Bio:
+Alberto Roverato obtained a PhD in Statistics from the University of Padua in early 1994. He held positions at the University of Modena and Reggio Emilia from 1994 to 2006 and at the University of Bologna from 2006 to 2018. He is currently full professor at the University of Padova. He is author of scientific papers published in leading statistical journals, and he has been associate editor for the Annals of Statistics, the Scandinavian Journal of Statistics, Metron, the Journal of the Royal Statitical Society Series B and Statistical Methods and Applications. He has held visiting positions at the Department of Mathematics and Statistics of Lancaster University (UK), the Isaac Newton Institute for Mathematical Sciences of  Cambridge (UK), the Center for Research in Economics and Statistics (CREST) in Paris (France), the Center for Discrete Mathematics and Theoretical Computer Science (DIMACS) at Rutgers University (USA), the Institute of Information Theory and Automation (IITA) in Prague (Czech Republic), the Center for Genomic Regulation of the University Pompeu Fabra in Barcelona (Spain) and Brunel University.
 
 

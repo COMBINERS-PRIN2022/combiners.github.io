@@ -22,7 +22,11 @@ organizations:
 #email: francescoclaudio.stingo@unifi.it
 #highlight_name: true
 interests:
-  - Graphical models
+  - Pseudo-likelihood methods
+  - Composite likelihoods
+  - Complex models
+  - Generalized linear mixed model
+  - High-dimensional data
 social:
 - icon: envelope
   icon_pack: fas
@@ -47,6 +51,6 @@ social:
 #  link: https://www.linkedin.com/company/royal-statistical-society/
 ---
 
-Bio: 
+Manuela Cattelan graduated with a degree in Business and Economics and earned her PhD in Statistical Sciences from the University of Padova. She served as a post-doctoral research fellow at the Department of Statistical Sciences, University of Padova, from January 2009 to November 2014. Following that, she held the position of Assistant Professor from November 2014 to February 2021. Currently, she holds the position of Associate Professor in Statistics at the University of Padova. She has authored numerous publications, featured in statistical journals such as Statistical Science, Biometrics, Journal of the Royal Statistical Society Series A and C. Manuela has presented her work at various national and international conferences, also as an invited speaker. Additionally, she taught both basic and advanced statistical courses in undergraduate and postgraduate programs in Statistics, as well as in PhD programs in Statistics and in Developmental Medicine and Health Planning Sciences.
 
 

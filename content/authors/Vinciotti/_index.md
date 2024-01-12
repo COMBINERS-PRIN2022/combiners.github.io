@@ -23,10 +23,16 @@ organizations:
 #highlight_name: true
 interests:
   - Graphical models
+  - Network science
+  - High-dimensional statistics
+  - Biostatistics
 social:
 - icon: envelope
   icon_pack: fas
   link: 'mailto:veronica.vinciotti@unitn.it'
+- icon: google-scholar
+  icon_pack: ai
+  link: https://scholar.google.co.uk/citations?user%253DKX-0T3oAAAAJ%2526hl%253Den
 #- display:
 #    header: true
 #  icon: twitter
@@ -47,6 +53,6 @@ social:
 #  link: https://www.linkedin.com/company/royal-statistical-society/
 ---
 
-Bio: 
+Veronica Vinciotti received a PhD in statistics from Imperial College London in 2003. She then worked as a postgraduate researcher at the department of computer science at Brunel University London until 2007, when she joined the department of mathematics as a permanent member of staff and progressed to reader in 2017. Since 2020, she has been an associate professor in statistics at the department of mathematics at the University of Trento.
 
 
