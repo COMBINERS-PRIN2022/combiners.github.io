@@ -3,7 +3,7 @@ widget: hero
 headless: true
 weight: 10
 title: Complex Graphical Models for Biological Network Science
-hero_media: logo.jpeg
+hero_media: UE_banner.png
 design:
   columns: "1"
   background:
