@@ -1,6 +1,6 @@
 ---
 title: Short Course on Graphical Models 
-authors: [Augugliaro, Vinciotti, Lupparelli]
+authors: [Abbruzzo, Castelletti]
 summary: TBA
 abstract: TBA
 address:
