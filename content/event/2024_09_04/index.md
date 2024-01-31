@@ -1,7 +1,7 @@
 ---
 title: Short Course on Graphical Models 
 authors: [Abbruzzo, Castelletti]
-summary: TBA
+summary: This course aims at introducing probabilistic graphical models, which provide a unified framework for learning dependence relationships between random variables and making statistical inference under complex multivariate settings. Participants will learn the fundamentals of graphical models, including Bayesian Networks and Markov Random Fields, and explore applications in machine learning, data analysis, and decision-making.
 abstract: This course aims at introducing probabilistic graphical models, which provide a unified framework for learning dependence relationships between random variables and making statistical inference under complex multivariate settings. Participants will learn the fundamentals of graphical models, including Bayesian Networks and Markov Random Fields, and explore applications in machine learning, data analysis, and decision-making.
 address:
   city: PADUA
