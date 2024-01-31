@@ -10,12 +10,12 @@ address:
   region: IT
   street: 2 Via 8 Febbraio
 all_day: false
-date: "2024–09–02T09:00:00Z"
+date: "2024-09-02T09:00:00Z"
 date_end: "2024-09-03T17:30:00Z"
 location: University of Padua
 #event: COMBINERS Conference
 #event_url: https://example.org
-featured: true
+featured: false
 #image:
 #  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
 #  focal_point: Right
@@ -26,7 +26,7 @@ featured: true
 #  url: https://twitter.com/georgecushen
 #projects:
 #- internal-project
-publishDate: "2024-01-31T09:00:00Z"
+publishDate: "2024-01-31T00:00:00Z"
 #slides: example
 tags: [Workshop]
 url_code: ""
