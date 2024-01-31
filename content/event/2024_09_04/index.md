@@ -12,7 +12,7 @@ address:
 all_day: false
 date: "2024–09–02T09:00:00Z"
 date_end: "2024-09-03T17:30:00Z"
-location: Padua
+location: University of Padua
 #event: COMBINERS Conference
 #event_url: https://example.org
 featured: true
