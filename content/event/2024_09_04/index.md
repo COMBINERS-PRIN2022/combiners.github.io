@@ -35,4 +35,6 @@ url_slides: ""
 url_video: ""
 ---
 
-*Teacher:* A. Abbruzzo, F. Castelletti 
+<font size="5"> <left><b> Instructors </b> </left></font>
+Antonino Abbruzzo - Department of Economics, Business and Statistics, University of Palermo
+Federico Castelletti - Department of Statistics, Università Cattolica del Sacro Cuore
