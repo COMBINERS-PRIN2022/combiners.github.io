@@ -3,6 +3,9 @@ title: Short Course on Graphical Models
 authors: [Abbruzzo, Castelletti]
 summary: TBA
 abstract: TBA
+schedule: TBA
+prerequisites: TBA
+outline: This course aims at introducing probabilistic graphical models, which provide a unified framework for learning dependence relationships between random variables and making statistical inference under complex multivariate settings. Participants will learn the fundamentals of graphical models, including Bayesian Networks and Markov Random Fields, and explore applications in machine learning, data analysis, and decision-making.
 address:
   city: PADUA
   country: Italy
@@ -10,8 +13,8 @@ address:
   region: IT
   street: 2 Via 8 Febbraio
 all_day: false
-date: "2024-09-04T09:00:00Z"
-date_end: "2024-09-05T18:00:00Z"
+date: "2024-09-02T09:00:00Z"
+date_end: "2024-09-03T17:30:00Z"
 location: Padua
 event: COMBINERS Conference
 #event_url: https://example.org
@@ -26,7 +29,7 @@ featured: false
 #  url: https://twitter.com/georgecushen
 #projects:
 #- internal-project
-publishDate: "2023-12-18T00:00:00Z"
+publishDate: "2024-01-31T00:00:00Z"
 #slides: example
 tags: [Workshop]
 url_code: ""
