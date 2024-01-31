@@ -49,8 +49,18 @@ url_video: ""
 # Outline
 ---
 This course aims at introducing probabilistic graphical models, which provide a unified framework for learning dependence relationships between random variables and making statistical inference under complex multivariate settings. Participants will learn the fundamentals of graphical models, including Bayesian Networks and Markov Random Fields, and explore applications in machine learning, data analysis, and decision-making.
-
-> The course has two modules, each of 6 hours. 
+### Teaching Methodology:
+-	Theoretical notions and statistical methodologies will be introduced throughout the lectures
+-	Participants will engage in practical exercises using popular graphical modeling tools
+-	Real-world applications and case studies will be explored to connect theory with practice
+### Additional Resources:
+-	Textbooks and Readings: 
+  - *Introduction to graphical modelling* (Edwards, D)
+  - *Handbook of Graphical Models* (Maathuis et al.)
+-	Software Textbooks: 
+  - *Graphical Models with R* (Hojsgaard, S. et al.)
+  - *Bayesian Networks: With examples in R* (Scutari and Denis)
+  - *BCDAG: An R package for Bayesian structure and Causal learning of Gaussian DAGs* (Castelletti and Mascaro, arxiv.org/abs/2201.12003)
 
 > ## Prerequisites
 > ---
@@ -76,3 +86,27 @@ This course aims at introducing probabilistic graphical models, which provide a 
 
 ### Session 4: Practical (16:00 - 17:30)
 - Analysis of a Dataset
+
+## Module 2
+### Session 1: Gaussian Graphical Models (09:00 - 10:30)
+- Multivariate Normal distribution: properties and conditional independencies
+-	Gaussian Undirected Graphs (UGs) and Directed Acyclic Graphs (DAGs)
+
+### Session 2: Frequentist Methods for Structure Learning (11:00 - 12:30)
+-	The Graphical lasso for UG model selection
+-	Greedy search and Hill Climbing algorithm for DAG model selection
+
+### Session 3: Bayesian Structure Learning (14:00 - 15:30)
+-	Priors for Bayesian graphical model comparison
+-	Markov Chain monte Carlo algorithms for Bayesian structure learning
+
+### Session 4: Practical (16:00 - 17:30)
+- Real data analyses
+
+# Software Installation
+---
+We will give you access to training computers with all the necessary software installed. However, if you want to run the analysis on your own computer, you can follow these instructions.
+
+- Download and install R: https://cloud.r-project.org/
+  - (Windows users): Download and install RTools: https://cran.r-project.org/bin/windows/Rtools/
+- Download and install RStudio: https://www.rstudio.com/products/rstudio/download/#download
