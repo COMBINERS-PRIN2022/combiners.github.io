@@ -1,5 +1,5 @@
 ---
-title: "Bayesian Estimation of Single and Multiple Graphs"
+title: "Bayesian Covariate-Dependent Gaussian Graphical Models with Varying Structure"
 authors:
 - Ni
 - Stingo
