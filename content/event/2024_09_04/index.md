@@ -49,11 +49,11 @@ url_video: ""
 # Outline
 ---
 This course aims at introducing probabilistic graphical models, which provide a unified framework for learning dependence relationships between random variables and making statistical inference under complex multivariate settings. Participants will learn the fundamentals of graphical models, including Bayesian Networks and Markov Random Fields, and explore applications in machine learning, data analysis, and decision-making.
-## Teaching Methodology:
+## **Teaching Methodology:**
 -	Theoretical notions and statistical methodologies will be introduced throughout the lectures
 -	Participants will engage in practical exercises using popular graphical modeling tools
 -	Real-world applications and case studies will be explored to connect theory with practice
-## Additional Resources:
+## **Additional Resources:**
 ###	Textbooks and Readings: 
 - *[Introduction to graphical modelling](https://link.springer.com/book/10.1007/978-1-4612-0493-0)* (Edwards, D.)
 - *[Handbook of Graphical Models](https://people.math.ethz.ch/~mmarloes/papers/Handbook.pdf)* (Maathuis, M. et al.)
@@ -73,7 +73,7 @@ TBA.
 
 # Schedule
 ---
-## Module 1
+## **Module 1**
 > ### Session 1: Introduction to Graphical Models (09:00 - 10:30)
 > - Overview of graphical models and their applications
 > - Conditional Independence, Markov Properties, Factorization
@@ -91,7 +91,7 @@ TBA.
 > ### Session 4: Practical (16:00 - 17:30)
 > - Analysis of a Dataset
 
-## Module 2
+## **Module 2**
 > ### Session 1: Gaussian Graphical Models (09:00 - 10:30)
 > - Multivariate Normal distribution: properties and conditional independencies
 > -	Gaussian Undirected Graphs (UGs) and Directed Acyclic Graphs (DAGs)
