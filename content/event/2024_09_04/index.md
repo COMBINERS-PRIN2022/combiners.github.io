@@ -37,5 +37,6 @@ url_video: ""
 
 # Instructors
 
-Antonino Abbruzzo - Department of Economics, Business and Statistics, University of Palermo
-Federico Castelletti - Department of Statistics, Università Cattolica del Sacro Cuore
+**Antonino Abbruzzo** - Department of Economics, Business and Statistics, University of Palermo
+
+**Federico Castelletti** - Department of Statistics, Università Cattolica del Sacro Cuore
