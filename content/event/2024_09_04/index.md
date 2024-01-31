@@ -47,8 +47,20 @@ url_video: ""
 
 This course aims at introducing probabilistic graphical models, which provide a unified framework for learning dependence relationships between random variables and making statistical inference under complex multivariate settings. Participants will learn the fundamentals of graphical models, including Bayesian Networks and Markov Random Fields, and explore applications in machine learning, data analysis, and decision-making.
 
+> The course has two modules, each of 6 hours. 
+
 ## Prerequisites
 ---
 
 - Basic understanding of probability theory and familiarity with concepts in linear algebra.
 - Consolidated knowledge of the R software is also required. 
+
+# Schedule
+---
+## Module 1
+### Session 1: Introduction to Graphical Models (09:00 - 10:30)
+- Overview of graphical models and their applications
+- Conditional Independence, Markov Properties, Factorization
+
+
+I need to highlight these ==very important words==.
