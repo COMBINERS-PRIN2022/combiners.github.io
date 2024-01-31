@@ -13,7 +13,7 @@ all_day: false
 date: "2024-09-02T09:00:00Z"
 date_end: "2024-09-03T17:30:00Z"
 location: Padua
-event: COMBINERS Conference
+#event: COMBINERS Conference
 #event_url: https://example.org
 featured: false
 #image:
@@ -35,7 +35,7 @@ url_slides: ""
 url_video: ""
 ---
 
-<font size="5"> <left><b> Instructors </b> </left></font>
+### Instructors
 
 Antonino Abbruzzo - Department of Economics, Business and Statistics, University of Palermo
 Federico Castelletti - Department of Statistics, Università Cattolica del Sacro Cuore
