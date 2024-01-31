@@ -67,6 +67,10 @@ This course aims at introducing probabilistic graphical models, which provide a 
 > - Basic understanding of probability theory and familiarity with concepts in linear algebra.
 > - Consolidated knowledge of the R software is also required. 
 
+# Data set
+---
+TBA.
+
 # Schedule
 ---
 ## Module 1
