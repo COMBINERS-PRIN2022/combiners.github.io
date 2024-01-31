@@ -74,38 +74,38 @@ TBA.
 # Schedule
 ---
 ## Module 1
-### Session 1: Introduction to Graphical Models (09:00 - 10:30)
-- Overview of graphical models and their applications
-- Conditional Independence, Markov Properties, Factorization
-
-### Session 2: Bayesian Networks for Discrete Random Variables (11:00 - 12:30)
--	Definition and representation of Bayesian Networks
--	Building and Using Bayesian Networks
--	Structural Learning and Model Selection of Bayesian Networks
-
-### Session 3: Markov Random Fields (14:00 - 15:30)
--	Definition and representation 
-- Log-linear graphical models
-- Model Checking and Answering Queries
-
-### Session 4: Practical (16:00 - 17:30)
-- Analysis of a Dataset
+> ### Session 1: Introduction to Graphical Models (09:00 - 10:30)
+> - Overview of graphical models and their applications
+> - Conditional Independence, Markov Properties, Factorization
+> 
+> ### Session 2: Bayesian Networks for Discrete Random Variables (11:00 - 12:30)
+> -	Definition and representation of Bayesian Networks
+> -	Building and Using Bayesian Networks
+> -	Structural Learning and Model Selection of Bayesian Networks
+> 
+> ### Session 3: Markov Random Fields (14:00 - 15:30)
+> -	Definition and representation 
+> - Log-linear graphical models
+> - Model Checking and Answering Queries
+> 
+> ### Session 4: Practical (16:00 - 17:30)
+> - Analysis of a Dataset
 
 ## Module 2
-### Session 1: Gaussian Graphical Models (09:00 - 10:30)
-- Multivariate Normal distribution: properties and conditional independencies
--	Gaussian Undirected Graphs (UGs) and Directed Acyclic Graphs (DAGs)
-
-### Session 2: Frequentist Methods for Structure Learning (11:00 - 12:30)
--	The Graphical lasso for UG model selection
--	Greedy search and Hill Climbing algorithm for DAG model selection
-
-### Session 3: Bayesian Structure Learning (14:00 - 15:30)
--	Priors for Bayesian graphical model comparison
--	Markov Chain monte Carlo algorithms for Bayesian structure learning
-
-### Session 4: Practical (16:00 - 17:30)
-- Real data analyses
+> ### Session 1: Gaussian Graphical Models (09:00 - 10:30)
+> - Multivariate Normal distribution: properties and conditional independencies
+> -	Gaussian Undirected Graphs (UGs) and Directed Acyclic Graphs (DAGs)
+> 
+> ### Session 2: Frequentist Methods for Structure Learning (11:00 - 12:30)
+> -	The Graphical lasso for UG model selection
+> -	Greedy search and Hill Climbing algorithm for DAG model selection
+> 
+> ### Session 3: Bayesian Structure Learning (14:00 - 15:30)
+> -	Priors for Bayesian graphical model comparison
+> -	Markov Chain monte Carlo algorithms for Bayesian structure learning
+> 
+> ### Session 4: Practical (16:00 - 17:30)
+> - Real data analyses
 
 # Software Installation
 ---
