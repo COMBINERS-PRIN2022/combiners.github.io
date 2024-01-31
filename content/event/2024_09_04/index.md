@@ -26,7 +26,7 @@ featured: true
 #  url: https://twitter.com/georgecushen
 #projects:
 #- internal-project
-publishDate: "2024-09-02T09:00:00Z"
+publishDate: "2024-01-31T09:00:00Z"
 #slides: example
 tags: [Workshop]
 url_code: ""
