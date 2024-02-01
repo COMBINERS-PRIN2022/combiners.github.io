@@ -10,7 +10,7 @@ address:
   region: IT
   street: 2 Via 8 Febbraio
 all_day: false
-date: ""
+date: "2024-09-02T09:00:00Z"
 date_end: ""
 location: University of Padua
 #event: COMBINERS Conference
