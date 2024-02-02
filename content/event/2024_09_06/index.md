@@ -10,7 +10,7 @@ address:
   region: IT
   street: Via Cesare Battisti, 241
 all_day: false
-date: "2024-09-06T09:00:00Z"
+date: "2024-09-04T09:00:00Z"
 date_end: ""
 location: Department of Statistical Sciences, University of Padova
 event: Workshop
