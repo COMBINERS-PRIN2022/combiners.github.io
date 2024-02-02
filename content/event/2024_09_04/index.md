@@ -6,13 +6,13 @@ summary: This course aims at introducing probabilistic graphical models, which p
 address:
   city: PADUA
   country: Italy
-  postcode: "35122"
+  postcode: "35121"
   region: IT
-  street: 2 Via 8 Febbraio
+  street: 241 Via Cesare Battisti
 all_day: false
 date: "2024-09-02T09:00:00Z"
 date_end: "2024-09-03T17:30:00Z"
-location: University of Padua
+location: Department of Statistical Sciences, University of Padova
 #event: COMBINERS Conference
 #event_url: https://example.org
 featured: false
