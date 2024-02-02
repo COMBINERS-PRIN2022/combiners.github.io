@@ -5,7 +5,7 @@ title: Manuela Cattelan
 role: Associate Professor
 user_groups: ["University of Padua"]
 organizations:
-- name: University of Padua
+- name: University of Padova
   url: https://www.unipa.it/persone/docenti/a/antonino.abbruzzo
 #bio: My research interests include distributed robotics, mobile computing and programmable matter.
 #education:
