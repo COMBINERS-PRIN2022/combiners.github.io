@@ -8,7 +8,7 @@ address:
   country: Italy
   postcode: "35121"
   region: IT
-  street: 241 Via Cesare Battisti
+  street: Via Cesare Battisti, 241
 all_day: false
 date: "2024-09-02T09:00:00Z"
 date_end: "2024-09-03T17:30:00Z"

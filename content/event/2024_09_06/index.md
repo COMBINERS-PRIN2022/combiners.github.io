@@ -2,17 +2,17 @@
 title: Workshop 
 authors: [Stingo, Roverato, Consonni, Augugliaro]
 summary: TBA
-abstract: TBA
+#abstract: TBA
 address:
   city: PADUA
   country: Italy
-  postcode: "35122"
+  postcode: "35121"
   region: IT
-  street: 2 Via 8 Febbraio
+  street: Via Cesare Battisti, 241
 all_day: false
 date: "2024-09-06T09:00:00Z"
-date_end: "2024-09-06T18:00:00Z"
-location: Padua
+date_end: ""
+location: Department of Statistical Sciences, University of Padova
 event: Workshop
 #event_url: https://example.org
 featured: false
@@ -34,3 +34,7 @@ url_pdf: ""
 url_slides: ""
 url_video: ""
 ---
+
+# Outline
+---
+TBA
