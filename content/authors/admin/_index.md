@@ -33,7 +33,7 @@ The methodological innovations are achieved with this proposal are as follows:
 - Development of single and multiple graphical models for causal inference based on observational and interventional data; 
 - Development of graphical models for non-normal and censored random variables. 
 
-This projects is developed by the collaborative efforts of four research units based at the University of Florence ([UNIFI](https://www.unifi.it/changelang-eng.html)), Università Cattolica del Sacro Cuore, ([UCSC](https://www.unicatt.eu)), University of Padua ([UNIPD](https://www.unipd.it/en/)), and University of Palermo ([UNIPA](https://www.unipa.it/mobilita/en/)).
+This projects is developed by the collaborative efforts of four research units based at the University of Florence ([UNIFI](https://www.unifi.it/changelang-eng.html)), Università Cattolica del Sacro Cuore, ([UCSC](https://www.unicatt.eu)), University of Padova ([UNIPD](https://www.unipd.it/en/)), and University of Palermo ([UNIPA](https://www.unipa.it/mobilita/en/)).
 
 
 
