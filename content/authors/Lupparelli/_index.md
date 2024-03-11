@@ -5,7 +5,7 @@ title: Monia Lupparelli
 role: Associate Professor
 user_groups: ["University of Florence"]
 organizations:
-- name: University of Florence
+- name: Official Webpage - University of Florence
   url: https://www.unifi.it/p-doc2-0-0-A-3f2c342b382b29-0.html
 #bio: My research interests include distributed robotics, mobile computing and programmable matter.
 #education:

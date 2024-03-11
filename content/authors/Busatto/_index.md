@@ -5,7 +5,7 @@ title: Claudio Busatto
 role: Postdoctoral Researcher
 user_groups: ["University of Florence"]
 organizations:
-- name: University of Florence
+- name: Official Webpage - University of Florence
   url: https://www.disia.unifi.it/vp-381-post-doc-researchers.html?newlang=eng
 #bio: My research interests include distributed robotics, mobile computing and programmable matter.
 #education:

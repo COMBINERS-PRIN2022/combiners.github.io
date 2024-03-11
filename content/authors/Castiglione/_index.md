@@ -5,7 +5,7 @@ title: Cristian Castiglione
 role: Postdoctoral Researcher
 user_groups: ["University of Padua"]
 organizations:
-- name: University of Padova
+- name: Official Webpage - University of Padova
   url: https://www.stat.unipd.it/ricerca/cristian-castiglione
 #bio: My research interests include distributed robotics, mobile computing and programmable matter.
 #education:

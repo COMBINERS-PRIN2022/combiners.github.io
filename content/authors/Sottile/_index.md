@@ -5,9 +5,9 @@ title: Gianluca Sottile
 role: Assistant Professor
 user_groups: ["University of Palermo"]
 organizations:
-- name: University of Palermo
+- name: Official Webpage - University of Palermo
   url: https://www.unipa.it/persone/docenti/s/gianluca.sottile
-- name: Personal webpage
+- name: Personal Webpage
   url: https://gianlucasottile.rbind.io
 # bio: Statistician, currently Research Fellow (RTD-B) at the Department of Economics, Business and Statistics of Università degli Studi di Palermo. Previously, postdoctoral researcher at University of Palermo, working on variable selection models and robust statistics. My research interests are related to the area of applied statistical learning, with particular focus on robust models. I am a passionate R user.
 #education:

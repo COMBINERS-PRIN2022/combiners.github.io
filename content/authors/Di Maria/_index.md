@@ -5,7 +5,7 @@ title: Chiara Di Maria
 role: Assistant Professor
 user_groups: ["University of Palermo"]
 organizations:
-- name: University of Palermo
+- name: Official Webpage - University of Palermo
   url: https://www.unipa.it/persone/docenti/d/chiara.dimaria
 #bio: My research interests include distributed robotics, mobile computing and programmable matter.
 #education:

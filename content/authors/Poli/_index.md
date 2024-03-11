@@ -5,7 +5,7 @@ title: Giovanni Poli
 role: PhD Student
 user_groups: ["University of Florence"]
 organizations:
-- name: University of Florence
+- name: Official Webpage - University of Florence
   url: https://www.disia.unifi.it/vp-92-dottorandi-e-dottori.html#
 #bio: My research interests include distributed robotics, mobile computing and programmable matter.
 #education:

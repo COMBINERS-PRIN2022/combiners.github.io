@@ -5,7 +5,7 @@ title: Luca La Rocca
 role: Associate Professor
 user_groups: ["University of Florence"]
 organizations:
-- name: University of Modena and Reggio Emilia
+- name: Official Webpage - University of Modena and Reggio Emilia
   url: http://personale.unimore.it/rubrica/dettaglio/llarocca
 #bio: My research interests include distributed robotics, mobile computing and programmable matter.
 #education:

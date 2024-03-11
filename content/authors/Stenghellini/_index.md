@@ -5,7 +5,7 @@ title: Elena Stenghellini
 role: Full Professor
 user_groups: ["University of Florence"]
 organizations:
-- name: University of Perugia
+- name: Official Webpage - University of Perugia
   url: http://www.stat.unipg.it/stanghellini/
 #bio: My research interests include distributed robotics, mobile computing and programmable matter.
 #education:

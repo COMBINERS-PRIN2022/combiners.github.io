@@ -5,7 +5,7 @@ title: Federico Castelletti
 role: Assistant Professor
 user_groups: ["Università Cattolica del Sacro Cuore"]
 organizations:
-- name: Università Cattolica del Sacro Cuore
+- name: Official Webpage - Università Cattolica del Sacro Cuore
   url: https://docenti.unicatt.it/ppd2/it/docenti/36414/federico-castelletti/profilo
 #bio: My research interests include distributed robotics, mobile computing and programmable matter.
 #education:

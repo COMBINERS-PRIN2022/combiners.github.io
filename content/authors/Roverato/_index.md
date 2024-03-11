@@ -5,7 +5,7 @@ title: Alberto Roverato
 role: Full Professor
 user_groups: ["Local Coordinators", "University of Padua"]
 organizations:
-- name: University of Padova
+- name: Official Webpage - University of Padova
   url: https://homes.stat.unipd.it/albertoroverato/en
 #bio: My research interests include distributed robotics, mobile computing and programmable matter.
 #education:

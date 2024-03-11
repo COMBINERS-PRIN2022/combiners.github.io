@@ -5,7 +5,7 @@ title: Francesco Denti
 role: Assistant Professor
 user_groups: ["Università Cattolica del Sacro Cuore"]
 organizations:
-- name: Università Cattolica del Sacro Cuore
+- name: Official Webpage - Università Cattolica del Sacro Cuore
   url: https://www.unipa.it/persone/docenti/d/chiara.dimaria
 #bio: My research interests include distributed robotics, mobile computing and programmable matter.
 #education:

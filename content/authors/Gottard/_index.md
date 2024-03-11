@@ -5,7 +5,7 @@ title: Anna Gottard
 role: Associate Professor
 user_groups: ["University of Florence"]
 organizations:
-- name: University of Florence
+- name: Official Webpage - University of Florence
   url: https://www.unifi.it/p-doc2-2019-0-A-2b333c2a3227-1.html
 #bio: My research interests include distributed robotics, mobile computing and programmable matter.
 #education:

@@ -5,7 +5,7 @@ title: Antonino Abbruzzo
 role: Associate Professor
 user_groups: ["University of Palermo"]
 organizations:
-- name: University of Palermo
+- name: Official Webpage - University of Palermo
   url: https://www.unipa.it/persone/docenti/a/antonino.abbruzzo
 #bio: My research interests include distributed robotics, mobile computing and programmable matter.
 #education:

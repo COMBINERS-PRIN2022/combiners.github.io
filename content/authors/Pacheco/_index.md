@@ -5,9 +5,9 @@ title: Alejandra Avalos-Pacheco
 role: Assistant Professor
 user_groups: ["University of Florence"]
 organizations:
-- name: University of Technology (TU Wien)
+- name: Official Webpage - University of Technology (TU Wien)
   url: https://tiss.tuwien.ac.at/person/368599.html?suchtext=avalos
-- name: Personal webpage
+- name: Personal Webpage
   url: https://sites.google.com/view/aleavalos
 #bio: My research interests include distributed robotics, mobile computing and programmable matter.
 #education:

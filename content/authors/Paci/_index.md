@@ -5,7 +5,7 @@ title: Lucia Paci
 role: Associate Professor
 user_groups: ["Università Cattolica del Sacro Cuore"]
 organizations:
-- name: Università Cattolica del Sacro Cuore
+- name: Official Webpage - Università Cattolica del Sacro Cuore
   url: https://docenti.unicatt.it/ppd2/it/docenti/57952/lucia-paci/profilo
 #bio: My research interests include distributed robotics, mobile computing and programmable matter.
 #education:
