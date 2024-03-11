@@ -5,7 +5,7 @@ title: Angelo M. Mineo
 role: Full Professor
 user_groups: ["University of Palermo"]
 organizations:
-- name: Official Webpage - University of Palermo
+- name: Official Webpage University of Palermo
   url: https://www.unipa.it/persone/docenti/m/angelo.mineo
 #bio: My research interests include distributed robotics, mobile computing and programmable matter.
 #education:

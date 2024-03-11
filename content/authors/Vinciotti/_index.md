@@ -5,7 +5,7 @@ title: Veronica Vinciotti
 role: Associate Professor
 user_groups: ["University of Padua"]
 organizations:
-- name: Official Webpage - University of Trento
+- name: Official Webpage University of Trento
   url: https://webapps.unitn.it/du/it/Persona/PER0222143/Curriculum
 #bio: My research interests include distributed robotics, mobile computing and programmable matter.
 #education:

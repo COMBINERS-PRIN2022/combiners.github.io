@@ -5,7 +5,7 @@ title: Piergiacomo Andrea Carlesi
 role: PhD Student
 user_groups: ["University of Padua"]
 organizations:
-- name: Official Webpage - University of Padova
+- name: Official Webpage University of Padova
   url: https://www.unipa.it/dipartimenti/seas/dottorati/scienzeeconomicheestatistiche/allievi.html
 #bio: My research interests include distributed robotics, mobile computing and programmable matter.
 #education:

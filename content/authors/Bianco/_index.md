@@ -5,7 +5,7 @@ title: Nicolas Bianco
 role: Postdoctoral Researcher
 user_groups: ["University of Padua"]
 organizations:
-- name: Official Webpage - Universitat Pompeu Fabra
+- name: Official Webpage Universitat Pompeu Fabra
   url: https://www.stat.unipd.it/ricerca/nicolas-bianco
 #bio: My research interests include distributed robotics, mobile computing and programmable matter.
 #education:

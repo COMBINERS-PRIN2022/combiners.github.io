@@ -5,8 +5,8 @@ title: Luigi Augugliaro
 role: Full Professor
 user_groups: ["Local Coordinators", "University of Palermo"]
 organizations:
-- name: Official Webpage - University of Palermo
-  url: [https://www.unipa.it/persone/docenti/s/gianluca.sottile](https://www.unipa.it/persone/docenti/a/luigi.augugliaro)
+- name: Official Webpage University of Palermo
+  url: https://www.unipa.it/persone/docenti/a/luigi.augugliaro
 #bio: My research interests include distributed robotics, mobile computing and programmable matter.
 #education:
 #  courses:

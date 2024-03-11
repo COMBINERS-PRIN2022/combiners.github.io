@@ -5,7 +5,7 @@ title: Dung Ngoc Nguyen
 role: Postdoctoral Researcher
 user_groups: ["University of Padua"]
 organizations:
-- name: Official Webpage - University of Padova
+- name: Personal Webpage
   url: https://ngocdung-nguyen.github.io
 #bio: My research interests include distributed robotics, mobile computing and programmable matter.
 #education:

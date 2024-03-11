@@ -5,7 +5,7 @@ title: Gianluca Sottile
 role: Assistant Professor
 user_groups: ["University of Palermo"]
 organizations:
-- name: Official Webpage - University of Palermo
+- name: Official Webpage University of Palermo
   url: https://www.unipa.it/persone/docenti/s/gianluca.sottile
 - name: Personal Webpage
   url: https://gianlucasottile.rbind.io

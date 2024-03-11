@@ -5,7 +5,7 @@ title: Agnese Panzera
 role: Associate Professor
 user_groups: ["University of Florence"]
 organizations:
-- name: Official Webpage - University of Florence
+- name: Official Webpage University of Florence
   url: https://www.unifi.it/p-doc2-0-0-A-3f2b3a2f352b2c-0.html
 #bio: My research interests include distributed robotics, mobile computing and programmable matter.
 #education:

@@ -5,7 +5,7 @@ title: Guido Consonni
 role: Full Professor
 user_groups: ["Local Coordinators", "Università Cattolica del Sacro Cuore"]
 organizations:
-- name: Official Webpage - Università Cattolica del Sacro Cuore
+- name: Official Webpage Università Cattolica del Sacro Cuore
   url: https://docenti.unicatt.it/ppd2/en/docenti/35448/guido-consonni/profilo
 #bio: My research interests include distributed robotics, mobile computing and programmable matter.
 #education:

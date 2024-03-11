@@ -5,7 +5,7 @@ title: Stefano Peluso
 role: Associate Professor
 user_groups: ["Università Cattolica del Sacro Cuore"]
 organizations:
-- name: Official Webpage - Università degli Studi di Milano Bicocca
+- name: Official Webpage Università degli Studi di Milano Bicocca
   url: https://www.unimib.it/stefano-peluso
 #bio: My research interests include distributed robotics, mobile computing and programmable matter.
 #education:

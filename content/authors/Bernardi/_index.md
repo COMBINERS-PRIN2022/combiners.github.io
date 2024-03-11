@@ -5,7 +5,7 @@ title: Mauro Bernardi
 role: Associate Professor
 user_groups: ["University of Padua"]
 organizations:
-- name: Official Webpage - University of Padova
+- name: Official Webpage University of Padova
   url: https://economia.unipd.it/bernardi-mauro
 #bio: My research interests include distributed robotics, mobile computing and programmable matter.
 #education:
