@@ -1,13 +1,13 @@
 ---
-title: "On the application of Gaussian graphical models to paired data problems"
+title: "Exploration of the search space of Gaussian graphical models for paired data"
 authors:
-- Ranciati
 - Roverato
-date: "2023-07-26T00:00:00Z"
-doi: "10.48550/arXiv.2307.14160"
+- Nguyen
+date: "2023-03-09T00:00:00Z"
+doi: "10.48550/arXiv.2303.05561"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2023-07-26T00:00:00Z"
+publishDate: "2023-03-09T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -19,7 +19,7 @@ publication_types: ["3"]
 publication: "arXiv"
 publication_short: ""
 
-abstract: Gaussian graphical models are nowadays commonly applied to the comparison of groups sharing the same variables, by jointy learning their independence structures. We consider the case where there are exactly two dependent groups and the association structure is represented by a family of coloured Gaussian graphical models suited to deal with paired data problems. To learn the two dependent graphs, together with their across-graph association structure, we implement a fused graphical lasso penalty. We carry out a comprehensive analysis of this approach, with special attention to the role played by some relevant submodel classes. In this way, we provide a broad set of tools for the application of Gaussian graphical models to paired data problems. These include results useful for the specification of penalty values in order to obtain a path of lasso solutions and an ADMM algorithm that solves the fused graphical lasso optimization problem. Finally, we present an application of our method to cancer genomics where it is of interest to compare cancer cells with a control sample from histologically normal tissues adjacent to the tumor. All the methods described in this article are implemented in the 𝚁 package 𝚙𝚍𝚐𝚕𝚊𝚜𝚜𝚘 availabe at [this https URL](https://github.com/savranciati/pdglasso).
+abstract: We consider the problem of learning a Gaussian graphical model in the case where the observations come from two dependent groups sharing the same variables. We focus on a family of coloured Gaussian graphical models specifically suited for the paired data problem. Commonly, graphical models are ordered by the submodel relationship so that the search space is a lattice, called the model inclusion lattice. We introduce a novel order between models, named the twin order. We show that, embedded with this order, the model space is a lattice that, unlike the model inclusion lattice, is distributive. Furthermore, we provide the relevant rules for the computation of the neighbours of a model. The latter are more efficient than the same operations in the model inclusion lattice, and are then exploited to achieve a more efficient exploration of the search space. These results can be applied to improve the efficiency of both greedy and Bayesian model search procedures. Here we implement a stepwise backward elimination procedure and evaluate its performance by means of simulations. Finally, the procedure is applied to learn a brain network from fMRI data where the two groups correspond to the left and right hemispheres, respectively.
 
 # Summary. An optional shortened abstract.
 #summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
@@ -31,13 +31,13 @@ featured: false
 links:
 #- name: Custom Link
  # url: http://example.org
-url_pdf: https://arxiv.org/pdf/2307.14160.pdf
-url_code: https://github.com/savranciati/pdglasso
+url_pdf: https://arxiv.org/pdf/2303.05561
+url_code: ''
 url_dataset: ''
 url_poster: ''
 url_project: ''
 url_slides: ''
-url_source: https://arxiv.org/abs/2307.14160
+url_source: https://arxiv.org/abs/2303.05561
 url_video: ''
 
 # Featured image
