@@ -19,7 +19,7 @@ publication_types: ["3"]
 publication: "arXiv"
 publication_short: ""
 
-abstract: Hematopoiesis is the process of blood cell formation, through which progenitor stem cells differentiate into mature forms, such as white and red blood cells or mature platelets. While the precursors of the mature forms share many regulatory pathways involving common cellular nuclear factors, specific networks of regulation shape their fate towards one lineage or another. In this study, we aim to analyse the complex regulatory network that drives the formation of mature red blood cells and platelets from their common precursor. To this aim, we develop a dedicated graphical model which we infer from the latest RT-qPCR genomic data. The model also accounts for the effect of external genomic data. A computationally efficient Expectation-Maximization algorithm allows regularised network inference from the high-dimensional and often only partially observed RT-qPCR data. A careful combination of alternating direction method of multipliers algorithms allows achieving sparsity in the individual lineage networks and a high sharing between these networks, together with the detection of the associations between the membrane-bound receptors and the nuclear factors. The approach will be implemented in the R package cglasso and can be used in similar applications where network inference is conducted from high-dimensional, heterogeneous and partially observed data.
+abstract: Gaussian graphical models are nowadays commonly applied to the comparison of groups sharing the same variables, by jointy learning their independence structures. We consider the case where there are exactly two dependent groups and the association structure is represented by a family of coloured Gaussian graphical models suited to deal with paired data problems. To learn the two dependent graphs, together with their across-graph association structure, we implement a fused graphical lasso penalty. We carry out a comprehensive analysis of this approach, with special attention to the role played by some relevant submodel classes. In this way, we provide a broad set of tools for the application of Gaussian graphical models to paired data problems. These include results useful for the specification of penalty values in order to obtain a path of lasso solutions and an ADMM algorithm that solves the fused graphical lasso optimization problem. Finally, we present an application of our method to cancer genomics where it is of interest to compare cancer cells with a control sample from histologically normal tissues adjacent to the tumor. All the methods described in this article are implemented in the 𝚁 package 𝚙𝚍𝚐𝚕𝚊𝚜𝚜𝚘 availabe at [this https URL](https://github.com/savranciati/pdglasso).
 
 # Summary. An optional shortened abstract.
 #summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
@@ -31,13 +31,13 @@ featured: false
 links:
 #- name: Custom Link
  # url: http://example.org
-url_pdf: https://arxiv.org/pdf/2206.09863.pdf
-url_code: https://github.com/gianluca-sottile/Hematopoiesis-network-inference-from-RT-qPCR-data
+url_pdf: https://arxiv.org/pdf/2307.14160.pdf
+url_code: https://github.com/savranciati/pdglasso
 url_dataset: ''
 url_poster: ''
 url_project: ''
 url_slides: ''
-url_source: https://arxiv.org/abs/2206.09863
+url_source: https://arxiv.org/abs/2307.14160
 url_video: ''
 
 # Featured image
