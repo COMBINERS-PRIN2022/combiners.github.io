@@ -52,7 +52,7 @@ TBA
 | 12:00 - 12:30 | Federico Castelletti| Cattolica           |                            |                             |
 | 12:30 - 14:30 | ***LUNCH/Poster***  |                     |                            |                             |
 | 13:30 - 14:30 | **Poster Session**  |                     |                            |                             |
-| 14:30 - 14:50 | Gianluca Sottile    | UniPA               | [Sparse inference of the multiple conditional Gaussian graphical model from heterogeneous and partially observed data](https://combiners.netlify.app/publication/conference-paper/04/) | L. Augugliaro, V. Vinciotti |
+| 14:30 - 14:50 | Gianluca Sottile    | UniPA               | [Sparse inference of the multiple conditional Gaussian graphical model from heterogeneous and partially observed data](https://main--combiners.netlify.app/publication/conference-paper/04-workshop/1.prova_sottile/) | L. Augugliaro, V. Vinciotti |
 | 14:50 - 15:10 | Saverio Ranciati    | UniPD               | Multiple graphical models with horseshoe | F.C. Stingo |
 | 15:10 - 15:30 | Claudio Busatto     | UniFI               |                            |                             |
 | 15:30 - 16:00 | ***COFFEE BREAK***  |                     |                            |                             |
