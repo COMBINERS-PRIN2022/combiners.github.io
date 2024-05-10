@@ -44,17 +44,17 @@ TBA
 |               | **Speaker**         | **Affiliation**     | **Title**                  | **Coauthors**               |
 |:--------------|:--------------------|:--------------------|:---------------------------|:----------------------------|
 | 09:15 - 09:30 | Francesco C. Stingo |                     |                            |                             |
-| 09:30 - 10:00 | Guido Consonni      | Cattolica           |                            |                             |
-| 10.00 - 10:30 | Veronica Vinciotti  | UniPD               |                            |                             |
-| 10:30 - 11:00 | Antonino Abbruzzo   | UniPA               | MCMC sampling for Bayesian Gaussian structural learning  |                             |
+| 09:30 - 10:00 | Guido Consonni      | Unicatt             | Bayesian sample size determination for causal discovery  | F. Castelletti |
+| 10.00 - 10:30 | Veronica Vinciotti  | UniPD               | Causal glms within a structural equation modelling framework |                             |
+| 10:30 - 11:00 | Antonino Abbruzzo   | UniPA               | MCMC sampling for Bayesian Gaussian structural learning  | N. Argentino, R. Mohammadi, M. De Iorio, W. van den Boom, A. Beskos |
 | 11:00 - 11:30 | ***COFFEE BREAK***  |                     |                            |                             |
 | 11:30 - 12:00 | Monia Lupparelli    | UniFI               | Path-dependent parametric decompositions in Ising models | G.M Marchetti |
-| 12:00 - 12:30 | Federico Castelletti| Cattolica           |                            |                             |
+| 12:00 - 12:30 | Federico Castelletti| Unicatt             |                            |                             |
 | 12:30 - 14:30 | ***LUNCH/Poster***  |                     |                            |                             |
 | 13:30 - 14:30 | **Poster Session**  |                     |                            |                             |
 | 14:30 - 14:50 | Gianluca Sottile    | UniPA               | [Sparse inference of the multiple conditional Gaussian graphical model from heterogeneous and partially observed data](https://main--combiners.netlify.app/publication/conference-paper/04-workshop/1.prova_sottile/) | L. Augugliaro, V. Vinciotti |
-| 14:50 - 15:10 | Saverio Ranciati    | UniPD               | Multiple graphical models with horseshoe | F.C. Stingo |
-| 15:10 - 15:30 | Claudio Busatto     | UniFI               |                            |                             |
+| 14:50 - 15:10 | Saverio Ranciati    | UniPD               | Learning Gaussian Graphical Models for Paired Data with the pdglasso | A. Roverato |
+| 15:10 - 15:30 | Claudio Busatto     | UniFI               | Multiple graphical models with horseshoe | F.C. Stingo |
 | 15:30 - 16:00 | ***COFFEE BREAK***  |                     |                            |                             |
 | 16:00 - 18:00 | **ROUND TABLES**    |                     |                            |                             |
 
