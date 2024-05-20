@@ -1,7 +1,7 @@
 ---
 title: Workshop on Complex Graphical Models for Biological Network Science
 authors: [Stingo, Roverato, Consonni, Augugliaro]
-#summary: TBA
+summary: This workshop focuses on the development of novel principled statistical tools for the analysis of complex networks under non-standard experimental setups.
 #abstract: TBA
 address:
   city: PADUA
@@ -37,7 +37,7 @@ url_video: ""
 
 # Outline
 ---
-TBA
+This workshop focuses on the development of novel principled statistical tools for the analysis of complex networks under non-standard experimental setups.
 
 # Program
 ---
