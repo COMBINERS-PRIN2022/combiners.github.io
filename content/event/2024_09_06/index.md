@@ -1,7 +1,7 @@
 ---
 title: Workshop on Complex Graphical Models for Biological Network Science
 authors: [Stingo, Roverato, Consonni, Augugliaro]
-summary: TBA
+summary: 
 #abstract: TBA
 address:
   city: PADUA
