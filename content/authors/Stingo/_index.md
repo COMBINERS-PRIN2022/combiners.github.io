@@ -2,7 +2,7 @@
 superuser: false
 weight: 10
 title: Francesco C. Stingo
-role: Associate Professor
+role: Full Professor
 user_groups: ["Principal Investigator", "Local Coordinators", "University of Florence"]
 organizations:
 - name: Official Webpage University of Florence 
