@@ -53,8 +53,8 @@ This workshop focuses on the development of novel principled statistical tools f
 | 12:30 - 14:30 | ***LUNCH/Poster***  |                     |                            |                             |
 | 13:30 - 14:30 | **Poster Session**  |                     |                            |                             |
 | 14:30 - 14:50 | Gianluca Sottile    | UniPA               | [Sparse inference of the multiple conditional Gaussian graphical model from heterogeneous and partially observed data](https://main--combiners.netlify.app/publication/conference-paper/04-workshop/6.sottile/) | L. Augugliaro, V. Vinciotti, W. Arancio, C. Coronnello |
-| 14:50 - 15:10 | Saverio Ranciati    | UniPD               | [Learning Gaussian graphical models for paired data with the pdglasso](https://main--combiners.netlify.app/publication/conference-paper/04-workshop/8.roverato/) | A. Roverato |
-| 15:10 - 15:30 | Claudio Busatto     | UniFI               | [Multiple graphical models with horseshoe](https://main--combiners.netlify.app/publication/conference-paper/04-workshop/9.busatto/) | F.C. Stingo |
+| 14:50 - 15:10 | Saverio Ranciati    | UniPD               | [Learning Gaussian graphical models for paired data with the pdglasso](https://main--combiners.netlify.app/publication/conference-paper/04-workshop/7.roverato/) | A. Roverato |
+| 15:10 - 15:30 | Claudio Busatto     | UniFI               | [Multiple graphical models with horseshoe](https://main--combiners.netlify.app/publication/conference-paper/04-workshop/8.busatto/) | F.C. Stingo |
 | 15:30 - 16:00 | ***COFFEE BREAK***  |                     |                            |                             |
 | 16:00 - 18:00 | **ROUND TABLES**    |                     |                            |                             |
 
