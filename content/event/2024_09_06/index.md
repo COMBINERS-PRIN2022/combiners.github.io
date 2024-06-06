@@ -44,17 +44,17 @@ This workshop focuses on the development of novel principled statistical tools f
 |               | **Speaker**         | **Affiliation**     | **Title**                  | **Coauthors**               |
 |:--------------|:--------------------|:--------------------|:---------------------------|:----------------------------|
 | 09:15 - 09:30 | Francesco C. Stingo | UniFI | Welcome Speech |                             |
-| 09:30 - 10:00 | Guido Consonni      | Unicatt             | Bayesian sample size determination for causal discovery  | F. Castelletti |
-| 10.00 - 10:30 | Veronica Vinciotti  | UniPD               | Causal glms within a graphical modelling framework | A. Polinelli, E. Wit |
-| 10:30 - 11:00 | Antonino Abbruzzo   | UniPA               | MCMC sampling for Bayesian Gaussian structural learning  | N. Argentino, R. Mohammadi, M. De Iorio, W. van den Boom, A. Beskos |
+| 09:30 - 10:00 | Guido Consonni      | Unicatt             | [Bayesian sample size determination for causal discovery](https://main--combiners.netlify.app/publication/conference-paper/04-workshop/1.consonni/) | F. Castelletti |
+| 10.00 - 10:30 | Veronica Vinciotti  | UniPD               | [Causal glms within a graphical modelling framework](https://main--combiners.netlify.app/publication/conference-paper/04-workshop/2.vinciotti/) | A. Polinelli, E. Wit |
+| 10:30 - 11:00 | Antonino Abbruzzo   | UniPA               | [MCMC sampling for Bayesian Gaussian structural learning](https://main--combiners.netlify.app/publication/conference-paper/04-workshop/3.abbruzzo/) | N. Argentino, R. Mohammadi, M. De Iorio, W. van den Boom, A. Beskos |
 | 11:00 - 11:30 | ***COFFEE BREAK***  |                     |                            |                             |
-| 11:30 - 12:00 | Monia Lupparelli    | UniFI               | Path-dependent parametric decompositions in Ising models | G.M Marchetti |
-| 12:00 - 12:30 | Federico Castelletti| Unicatt             | Bayesian nonparametric mixtures of directed acyclic graphs for heterogeneous causal inference | L. Ferrini |
+| 11:30 - 12:00 | Monia Lupparelli    | UniFI               | [Path-dependent parametric decompositions in Ising models](https://main--combiners.netlify.app/publication/conference-paper/04-workshop/4.lupparelli/) | G.M Marchetti |
+| 12:00 - 12:30 | Federico Castelletti| Unicatt             | [Bayesian nonparametric mixtures of directed acyclic graphs for heterogeneous causal inference](https://main--combiners.netlify.app/publication/conference-paper/04-workshop/5.castelletti/) | L. Ferrini |
 | 12:30 - 14:30 | ***LUNCH/Poster***  |                     |                            |                             |
 | 13:30 - 14:30 | **Poster Session**  |                     |                            |                             |
-| 14:30 - 14:50 | Gianluca Sottile    | UniPA               | [Sparse inference of the multiple conditional Gaussian graphical model from heterogeneous and partially observed data](https://main--combiners.netlify.app/publication/conference-paper/04-workshop/1.prova_sottile/) | L. Augugliaro, V. Vinciotti, W. Arancio, C. Coronnello |
-| 14:50 - 15:10 | Saverio Ranciati    | UniPD               | Learning Gaussian graphical models for paired data with the pdglasso | A. Roverato |
-| 15:10 - 15:30 | Claudio Busatto     | UniFI               | Multiple graphical models with horseshoe | F.C. Stingo |
+| 14:30 - 14:50 | Gianluca Sottile    | UniPA               | [Sparse inference of the multiple conditional Gaussian graphical model from heterogeneous and partially observed data](https://main--combiners.netlify.app/publication/conference-paper/04-workshop/6.sottile/) | L. Augugliaro, V. Vinciotti, W. Arancio, C. Coronnello |
+| 14:50 - 15:10 | Saverio Ranciati    | UniPD               | [Learning Gaussian graphical models for paired data with the pdglasso](https://main--combiners.netlify.app/publication/conference-paper/04-workshop/8.roverato/) | A. Roverato |
+| 15:10 - 15:30 | Claudio Busatto     | UniFI               | [Multiple graphical models with horseshoe](https://main--combiners.netlify.app/publication/conference-paper/04-workshop/9.busatto/) | F.C. Stingo |
 | 15:30 - 16:00 | ***COFFEE BREAK***  |                     |                            |                             |
 | 16:00 - 18:00 | **ROUND TABLES**    |                     |                            |                             |
 
