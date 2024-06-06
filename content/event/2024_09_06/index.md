@@ -43,7 +43,7 @@ This workshop focuses on the development of novel principled statistical tools f
 ---
 |               | **Speaker**         | **Affiliation**     | **Title**                  | **Coauthors**               |
 |:--------------|:--------------------|:--------------------|:---------------------------|:----------------------------|
-| 09:15 - 09:30 | Francesco C. Stingo | UniFI |                            |                             |
+| 09:15 - 09:30 | Francesco C. Stingo | UniFI | Welcome Speech |                             |
 | 09:30 - 10:00 | Guido Consonni      | Unicatt             | Bayesian sample size determination for causal discovery  | F. Castelletti |
 | 10.00 - 10:30 | Veronica Vinciotti  | UniPD               | Causal glms within a graphical modelling framework | A. Polinelli, E. Wit |
 | 10:30 - 11:00 | Antonino Abbruzzo   | UniPA               | MCMC sampling for Bayesian Gaussian structural learning  | N. Argentino, R. Mohammadi, M. De Iorio, W. van den Boom, A. Beskos |
