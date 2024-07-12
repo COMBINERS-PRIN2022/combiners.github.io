@@ -67,9 +67,9 @@ This course aims at introducing probabilistic graphical models, which provide a 
 > - Basic understanding of probability theory and familiarity with concepts in linear algebra.
 > - Consolidated knowledge of the R software is also required. 
 
-# Data set
+# Course Materials
 ---
-TBA.
+To access the short course material click [here](https://unipa-my.sharepoint.com/:f:/g/personal/gianluca_sottile_unipa_it/EjjGK-n_AN9GrJmsIZvSH8sBZUbskMvPf2jm-mFN6fKrQQ?e=sIfDnx)
 
 # Schedule
 ---
