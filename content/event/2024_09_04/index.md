@@ -56,9 +56,9 @@ This course aims at introducing probabilistic graphical models, which provide a 
 ## **Additional Resources:**
 ###	Textbooks and Readings: 
 - *[Introduction to graphical modelling](https://link.springer.com/book/10.1007/978-1-4612-0493-0)* (Edwards, D.)
-- *[Handbook of Graphical Models](https://people.math.ethz.ch/~mmarloes/papers/Handbook.pdf)* (Maathuis, M. et al.)
+- *[Handbook of Graphical Models](https://www.routledge.com/Handbook-of-Graphical-Models/Maathuis-Drton-Lauritzen-Wainwright/p/book/9780367732608)* (Maathuis, M. et al.)
 ###	Software Textbooks: 
-- *[Graphical Models with R](https://esl.hohoweiya.xyz/references/Graphical-Models-with-R.pdf)* (Hojsgaard, S. et al.)
+- *[Graphical Models with R](https://link.springer.com/book/10.1007/978-1-4614-2299-0)* (Hojsgaard, S. et al.)
 - *[Bayesian Networks: With examples in R](https://www.taylorfrancis.com/books/mono/10.1201/9780429347436/bayesian-networks-marco-scutari-jean-baptiste-denis)* (Scutari, M. and Denis, J.B.)
 - *[BCDAG: An R package for Bayesian structure and Causal learning of Gaussian DAG](https://arxiv.org/abs/2201.12003)s* (Castelletti, F. and Mascaro, A.)
 
