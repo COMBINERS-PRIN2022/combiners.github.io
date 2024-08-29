@@ -109,7 +109,7 @@ To access the short course material click [here](https://unipa-my.sharepoint.com
 
 # Software Installation
 ---
-We will give you access to training computers with all the necessary software installed. However, if you want to run the analysis on your own computer, you can follow these instructions.
+To run the analysis you need your own computer. You can follow these instructions to install all the necessary software:
 
 - Download and install R: https://cloud.r-project.org/
   - (Windows users): Download and install RTools: https://cran.r-project.org/bin/windows/Rtools/
