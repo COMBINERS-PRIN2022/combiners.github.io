@@ -45,7 +45,7 @@ This workshop focuses on the development of novel principled statistical tools f
 |:--------------|:--------------------|:--------------------|:---------------------------|:----------------------------|
 | 09:15 - 09:30 | Francesco C. Stingo | UniFI | Welcome Speech |                             |
 | 09:30 - 10:00 | Guido Consonni      | Unicatt             | [Bayesian sample size determination for causal discovery](https://main--combiners.netlify.app/publication/conference-paper/04-workshop/1.consonni/) | F. Castelletti |
-| 10.00 - 10:30 | Veronica Vinciotti  | UniPD               | [Causal glms within a graphical modelling framework](https://main--combiners.netlify.app/publication/conference-paper/04-workshop/2.vinciotti/) | A. Polinelli, E. Wit |
+| 10.00 - 10:30 | Veronica Vinciotti  | UniTrento           | [Causal glms within a graphical modelling framework](https://main--combiners.netlify.app/publication/conference-paper/04-workshop/2.vinciotti/) | A. Polinelli, E. Wit |
 | 10:30 - 11:00 | Antonino Abbruzzo   | UniPA               | [MCMC sampling for Bayesian Gaussian structural learning](https://main--combiners.netlify.app/publication/conference-paper/04-workshop/3.abbruzzo/) | N. Argentino, R. Mohammadi, M. De Iorio, W. van den Boom, A. Beskos |
 | 11:00 - 11:30 | ***COFFEE BREAK***  |                     |                            |                             |
 | 11:30 - 12:00 | Monia Lupparelli    | UniFI               | [Path-dependent parametric decompositions in Ising models](https://main--combiners.netlify.app/publication/conference-paper/04-workshop/4.lupparelli/) | G.M Marchetti |
