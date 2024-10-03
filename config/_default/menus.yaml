@@ -19,6 +19,9 @@ main:
   - name: Events
     url: event/
     weight: 50
+  - name: Gallery
+    url: gallery/
+    weight: 60
 #  - name: Teaching
 #    weight: 60
 #  - name: Contact
