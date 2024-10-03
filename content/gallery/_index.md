@@ -23,4 +23,4 @@ title: Photo Gallery
 
 &nbsp;
 
-### [Day 3 - Padua, Septemner, 4th 2024](https://myalbum.com/album/ZFJr2tJ83j9VkK/?invite=d8dff0d8-8d0e-4efe-8737-e391d72e5478)
+### [Day 3 - Padua, September, 4th 2024](https://myalbum.com/album/ZFJr2tJ83j9VkK/?invite=d8dff0d8-8d0e-4efe-8737-e391d72e5478)
